@@ -1,2 +1,2 @@
 # socket-chat-app
-Socket App
+Socket Chat App
